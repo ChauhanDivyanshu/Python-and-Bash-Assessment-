@@ -1,0 +1,3 @@
+Hello, this is a sample text written to the file.
+This is the second line of the file.
+This is Divyanshu Chauhan and I am a new learner of DevOps.
